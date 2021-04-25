@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\bin\Debug\Santos_James_A6.exe.config
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\bin\Debug\Santos_James_A6.exe
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\bin\Debug\Santos_James_A6.pdb
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.Form1.resources
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.Properties.Resources.resources
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.csproj.GenerateResource.cache
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.exe
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.pdb
+C:\Users\james\source\repos\Santos_James_A6\Santos_James_A6\obj\Debug\Santos_James_A6.Form2.resources
